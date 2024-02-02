@@ -812,3 +812,8 @@ footer .container .foot .social a {
     width: 1320px;
   }
 }
+@media (height <= 320px){
+  .drop-down li a {
+    padding: 14px 0px 10px 10px;
+}
+}
